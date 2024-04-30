@@ -1,0 +1,11 @@
+<---------------Sistema de Gestion de inventario de una Tienda------------->
+
+La pulpería "La Esquina Feliz" es un pequeño negocio local que ofrece una variedad de productos 
+básicos a sus clientes. Sin embargo, la gestión del inventario se ha vuelto cada vez más complicada 
+a medida que el negocio crece. Actualmente, la pulpería lleva un registro manual de los productos en 
+stock, lo que conlleva a errores en la contabilidad, pérdida de tiempo y ocasiones en las que no se 
+cuenta con productos importantes en el inventario cuando los clientes los necesitan.
+
+Para abordar estos desafíos y mejorar la eficiencia operativa, se propone la implementación de un sistema 
+de gestión de inventario informatizado. Este sistema permitirá a "La Esquina Feliz" llevar un registro más 
+preciso de los productos disponibles, realizar un seguimiento de las ventas y agilizar los procesos de reposición de inventario.
